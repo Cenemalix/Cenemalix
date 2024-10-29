@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cenemalix
 - 👀 I’m interested in Web Developing 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently mastering JavaScript and learning React.js
 - 📫 How to reach me ... email: celicnemanja31@gmail.com
